@@ -1,4 +1,4 @@
-## Hi there 👋
+## Приветствую всех, кто сюда зашёл 
 
 <!--
 **YougTig/YougTig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
