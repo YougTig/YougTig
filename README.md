@@ -1,5 +1,4 @@
-<h1 align="center">Hi there>Ivan</a> 
-<h3 align="center">IT-Support 🇷🇺</h3>
+
 
 <!--
 **YougTig/YougTig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
