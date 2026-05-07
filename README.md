@@ -1,17 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-       alt="Linux Logo" 
-       width="80">
-</p>
 
-<h1 align="center">
-  🐧 Привет, меня зовут ... 🐧
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=green" 
-       alt="Profile views">
-</p>
 <!--
 **YougTig/YougTig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
